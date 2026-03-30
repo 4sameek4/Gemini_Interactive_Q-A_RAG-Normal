@@ -1,9 +1,8 @@
-# Gemini_Interactive_Q-A_RAG-Normal
+# Gemini_Interactive_Q&A_RAG+Normal
 
 **A lightweight Python project that integrates Google Gemini for conversational question-answering with two modes:**
 
 - Normal Q&A: Ask a question and get instant answers from Gemini.
-
 - Contextual Q&A (RAG): Provide a document/text block + question to get context-aware responses.
 
 ## 🔹 Key Features
